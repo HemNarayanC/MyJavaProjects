@@ -57,7 +57,7 @@ public class StarPattern01 {
                 }
             }
             // Move to the next line after printing the row
-            System.out.println("");
+            System.out.println(" ");
         }
 
     }
