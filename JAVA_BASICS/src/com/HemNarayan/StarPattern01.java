@@ -18,13 +18,13 @@ package com.HemNarayan;
 public class StarPattern01 {
     public static void main(String[] args)
     {
-        int rows=6;
+        final int ROWS=6;
         int i, j, k;
         // Loop through each row
-        for(i=1; i<=rows; i++)
+        for(i=1; i<=ROWS; i++)
         {
             // Print spaces before the stars
-            for(j=1; j<=rows-i; j++)
+            for(j=1; j<=ROWS-i; j++)
             {
                 System.out.print(" ");
             }
