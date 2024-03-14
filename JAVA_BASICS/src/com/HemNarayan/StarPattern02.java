@@ -1,3 +1,15 @@
+
+/*
+
+    WAP to print the given star pattern taking user input
+              *
+             * *
+            * * *
+           * * * *
+          * * * * *
+         * * * * * *
+*/
+
 package com.HemNarayan;
 import java.util.Scanner;
 public class StarPattern02 {
