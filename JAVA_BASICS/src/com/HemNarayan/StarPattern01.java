@@ -1,6 +1,4 @@
-
 /*
-
     WAP to print the given star pattern
               *
              * *
@@ -11,7 +9,6 @@
 
    Here, for odd rows: star is printed at even position and space at odd position
         for even rows: star is printed at odd position and space at even position
-
 */
 
 package com.HemNarayan;
