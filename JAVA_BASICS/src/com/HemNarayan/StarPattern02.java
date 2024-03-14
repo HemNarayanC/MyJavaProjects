@@ -1,6 +1,4 @@
-
 /*
-
     WAP to print the given star pattern taking user input
               *
              * *
@@ -32,5 +30,6 @@ public class StarPattern02 {
             }
         System.out.println(" ");
         }
+        sc.close();
     }
 }
