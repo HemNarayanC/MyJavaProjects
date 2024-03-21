@@ -27,6 +27,7 @@ public class ArithmeticUsingSwitch01 {
             default:
                 System.out.println("Wrong Choice");
         }
+        sc.close();
     }
 
     static void getOperand(){
@@ -38,7 +39,9 @@ public class ArithmeticUsingSwitch01 {
         num2 = sc.nextInt();
         System.out.print("Operand3: ");     //get third operand
         num3=sc.nextInt();
+        sc.close();
     }
+
 
     public static void main(String[] args) {
         System.out.println("Select Operation to be performed:");
